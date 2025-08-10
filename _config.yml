@@ -1,11 +1,11 @@
 # Setup
 title: 韩涛 (Han Tao)
 description: 欢迎来到我的个人博客
-url: https://vszhub.github.io
+url: https://ht894419944.github.io
 avatar: /hantao.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /anechoic.png
 
 # Gems
 plugins:
@@ -28,15 +28,15 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
+# twitter:
+#   username: vszhub
+#   card: summary
+# logo: logo.png
 social:
-  name: Songzi Vong
+  name: Han Tao
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    # - https://twitter.com/vszhub
+    - https://github.com/ht894419944
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Han Tao
+  url: https://github.com/ht894419944/
+  email: than@idt.eitech.edu.cn

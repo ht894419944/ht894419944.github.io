@@ -51,7 +51,7 @@ image:
 
 ### 三、正文换行和换段
 
-这里是Markdown学习笔记（**正文直接输入就可以**） 
+这里是Markdown学习笔记（**正文直接输入就可以**）  
 希望和大家互相学习，共同进步（上一行尾后 **两个空格然后Enter** 则是换行）
 
 愿祖国繁荣昌盛（上一段尾后 **无空格然后Enter** 则是换段）
@@ -207,7 +207,7 @@ mesh 1|mesh 2|mesh 3
 或者输入文字后，直接把链接复制到文字上，则代码自动补全 []() 符号
 
 例如：本文参考B站视频超链接
-UP主：[zplay](https://www.bilibili.com/video/BV1si4y1472o?from=search&seid=17257293353718123487)
+UP主：[zplay](https://www.bilibili.com/video/BV1si4y1472o?from=search&seid=17257293353718123487)  
 UP主：[是叶十三](https://www.bilibili.com/video/BV1hJ411X75X?from=search&seid=17257293353718123487)
 ```
 
@@ -234,7 +234,7 @@ UP主：[是叶十三](https://www.bilibili.com/video/BV1hJ411X75X?from=search&s
 注：若为其他语言代码段，则替换 python 为此语言即可
 ```
 
-****生成效果****
+**生成效果**
 
 ```python
 def function():
@@ -256,7 +256,7 @@ def function():
 ***
 ```
 
-****生成效果****
+**生成效果**
 
 ---
 ---
@@ -310,7 +310,7 @@ gantt
     ```
 ```
 
-****生成效果****
+**生成效果**
 
 ```mermaid
 sequenceDiagram

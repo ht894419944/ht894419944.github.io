@@ -25,7 +25,7 @@ image:
 
 **生成效果**
 
-![1](hhttps://github.com/ht894419944/ht894419944.github.io/raw/master/_posts/image/2025-8-26-Markdown/1.png)
+![1](https://github.com/ht894419944/ht894419944.github.io/raw/master/_posts/image/2025-8-26-Markdown/1.png)
 
 ---
 
@@ -134,7 +134,7 @@ image:
 ```
 ****生成效果****
 
-![2](hhttps://github.com/ht894419944/ht894419944.github.io/raw/master/_posts/image/2025-8-26-Markdown/2.jpeg)
+![2](https://github.com/ht894419944/ht894419944.github.io/raw/master/_posts/image/2025-8-26-Markdown/2.jpeg)
 
 ---
 

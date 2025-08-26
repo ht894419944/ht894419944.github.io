@@ -123,7 +123,7 @@ image:
 
 ### 五、插入图片
 
-****Markdown 语法****
+**Markdown 语法**
 
 ```java
 步骤 1：将需要插入的图片与 markdown 文档放到同一文件夹中
@@ -132,7 +132,7 @@ image:
 
 例如：![棉花糖](微信图片_20201025200554.jpg)  
 ```
-****生成效果****
+**生成效果**
 
 ![2](https://github.com/ht894419944/ht894419944.github.io/raw/master/_posts/image/2025-8-26-Markdown/2.jpeg)
 
@@ -158,7 +158,7 @@ image:
 注： $ 快捷键为 ctrl + m
 ```
 
-****生成效果****
+**生成效果**
 
 **公式**
 

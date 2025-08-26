@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 
+title: Markdown 列表、标题、公式、图片、超链接、上下标、甘特图、流程图、选择框等语法笔记
 tags: Markdown
 math: true
 date: 2025-8-26
 image:
 ---
-![markdown](https://github.com/ht894419944/ht894419944.github.io/raw/master/_posts/image/2025-8-26-Markdown/Markdown.jpg)
+![markdown](https://github.com/ht894419944/ht894419944.github.io/raw/master/_posts/image/2025-8-26-Markdown/markdown.jpg)
 
 **Markdown语法笔记**
 
@@ -134,7 +134,7 @@ image:
 ```
 ==**生成效果**==
 
-![2](hhttps://github.com/ht894419944/ht894419944.github.io/raw/master/_posts/image/2025-8-26-Markdown/2.png)
+![2](hhttps://github.com/ht894419944/ht894419944.github.io/raw/master/_posts/image/2025-8-26-Markdown/2.jpeg)
 
 ---
 

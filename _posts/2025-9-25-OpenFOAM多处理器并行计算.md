@@ -65,9 +65,9 @@ mpirun -np 4 pimpleFoam -parallel
 ```
 
 **参考资源**
-[OpenFOAM v11 User Guide - 2.2 Breaking of a dam](https://doc.cfd.direct/openfoam/user-guide-v11/dambreak)
-[OpenFOAM v11 User Guide - 3.4 Running applications in parallel](https://doc.cfd.direct/openfoam/user-guide-v11/running-applications-parallel)
-[OpenFOAM: Quickstart](https://doc.openfoam.com/2306/quickstart/)
+[OpenFOAM v11 User Guide - 2.2 Breaking of a dam](https://doc.cfd.direct/openfoam/user-guide-v11/dambreak)  
+[OpenFOAM v11 User Guide - 3.4 Running applications in parallel](https://doc.cfd.direct/openfoam/user-guide-v11/running-applications-parallel)  
+[OpenFOAM: Quickstart](https://doc.openfoam.com/2306/quickstart/)  
 [OpenFOAM: pimpleFoam](https://doc.openfoam.com/2306/tools/processing/solvers/rtm/incompressible/pimpleFoam/#)
 
 ---

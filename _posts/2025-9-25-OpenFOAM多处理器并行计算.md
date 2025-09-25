@@ -16,8 +16,7 @@ image:
 
 ### 2. 解决方法
 
-<mark>Step1<mark> 
-在**system**文件夹下配置decomposeParDict文件
+<mark>Step1</mark>在**system**文件夹下配置decomposeParDict文件
 
 ```
 numberOfSubdomains 4;                // 启动4个处理器进行计算
@@ -39,22 +38,19 @@ distributed     no;
 roots           ( );
 ```
 
-<mark>Step2<mark> 
-划分网格。Linux终端输入：
+<mark>Step2</mark>划分网格。Linux终端输入：
 
 ```
 blockMesh
 ```
 
-<mark>Step3<mark> 
-分解区域。Linux终端输入：
+<mark>Step3</mark>分解区域。Linux终端输入：
 
 ```
 decomposePar
 ```
 
-<mark>Step4<mark> 
-多处理器并行计算。Linux终端输入：
+<mark>Step4</mark>多处理器并行计算。Linux终端输入：
 
 ```
 mpirun -np 4 pimpleFoam -parallel
@@ -62,8 +58,7 @@ mpirun -np 4 pimpleFoam -parallel
 
 我用的是pimpleFoam求解器来求解incompressible问题
 
-<mark>Step5<mark> 
-合并多处理器的计算结果。Linux终端输入：
+<mark>Step5</mark>合并多处理器的计算结果。Linux终端输入：
 
 ```
  reconstructPar
